@@ -1,0 +1,5 @@
+deap
+matplotlib
+pandas
+numpy
+seaborn
